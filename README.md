@@ -37,4 +37,5 @@ We welcome suggestions for:
 - Be respectful, toxic or rude suggestions/reports will be deleted
 - Use clear, descriptive titles
 - One issue per report
+- No off-topic discussions
 - English only
