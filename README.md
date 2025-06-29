@@ -23,6 +23,8 @@ When reporting bugs, please include:
 - Screenshots/videos if applicable
 - Platform (PC VR, Quest, Desktop)
 
+Issues with missing/incomplete information will be ignored.
+
 ## Feature Requests
 
 We welcome suggestions for:
@@ -32,7 +34,7 @@ We welcome suggestions for:
 
 ## Guidelines
 
-- Be respectful
+- Be respectful, toxic or rude suggestions/reports will be deleted
 - Use clear, descriptive titles
 - One issue per report
 - English only
