@@ -22,6 +22,7 @@ When reporting bugs, please include:
 - Expected vs actual behavior
 - Screenshots/videos if applicable
 - Platform (PC VR, Quest, Desktop)
+- VRChat Logs from the timestamp of the issue
 
 Issues with missing/incomplete information will be ignored.
 
