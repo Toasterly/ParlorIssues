@@ -28,7 +28,7 @@ Issues with missing/incomplete information will be ignored.
 
 ## Feature Requests
 
-We welcome suggestions for:
+Keep suggestions limited to:
 - Quality of life improvements
 - Accessibility features
 - Visual enhancements
