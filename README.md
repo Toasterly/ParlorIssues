@@ -1,3 +1,6 @@
+# Looking For v8 Progress?
+- Check the `Projects` tab above for the current progress and what is currently being worked on.
+
 # The Pool Parlor 
 Issue Repository for tracking changes within The Pool Parlor.
 
